@@ -56,10 +56,18 @@ Tip: Add links to each project repository or demo to showcase your code and visu
 ---
 
 ## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile (replace with your profile URL)
-- 📧 Email: paletimanoj54@gmail.com
-- 🔗 GitHub: https://github.com/paletimanoj54-bot
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-label="Connects logo">
+  <title>Connects</title>
+  <!-- icon -->
+  <g transform="translate(12,12)">
+    <circle cx="18" cy="28" r="10" fill="#2B6EF6"/>
+    <circle cx="54" cy="28" r="10" fill="#00C49A"/>
+    <rect x="28" y="26" width="28" height="4" rx="2" fill="#7AAEF0"/>
+  </g>
+  <!-- text -->
+  <text x="100" y="50" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="36" fill="#0F172A">Connects</text>
+</svg>
 
 ---
 
