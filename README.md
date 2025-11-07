@@ -1,18 +1,23 @@
- 👋 Hi, I'm [paleti manoj]
+# 👋 Hi, I'm Paleti Manoj
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** who thrives on turning raw data into actionable insights. With a strong foundation in statistics, data visualization, and business intelligence, I help organizations make data-driven decisions that drive growth and efficiency.
+![Header banner](https://img.shields.io/badge/Hello-Data%20World-blueviolet)
+
+I'm a passionate Data Analyst who turns raw data into clear insights that drive better decisions. I enjoy building dashboards, writing clean analysis pipelines, and telling stories with data.
+
+---
 
 ## 🔍 About Me
 
-- 🎓 Background in [b.tech]
+- 🎓 Bachelor of Technology (B.Tech)
 - 💼 Experience in data analytics, reporting, and dashboard development
-- 🧠 Skilled in SQL, Python, Excel, and data visualization tools like Power BI & Tableau
-- 📊 Love exploring trends, patterns, and anomalies in data
+- 🧠 Skilled in SQL, Python, Excel, and visualization tools like Power BI & Tableau
 - 🌱 Currently learning: Machine Learning & Advanced Analytics
+- 📊 Interests: data visualization, A/B testing, customer segmentation, and product analytics
+
+---
 
 ## 🛠️ Tools & Technologies
 
-<!-- Technologies / Logos -->
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
@@ -28,23 +33,34 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who thrives on t
   <img alt="GitHub" src="https://img.shields.io/badge/-Git%20%26%20GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </p>
 
+---
 
-## 📈 Projects
+## 🚀 Featured Projects
 
-Here are a few highlights from my portfolio:
+- **Sales Performance Dashboard** — Power BI dashboard tracking KPIs across regions and teams. (link to repo/demo)
+- **Customer Segmentation Analysis** — Clustering to identify customer groups and actionable segments. (link to repo)
+- **Web Scraping with Python** — Automated data collection pipelines for e-commerce data. (link to repo)
+- **A/B Testing Framework** — Experiment design and analysis to optimize product features. (link to repo)
 
-- **Sales Performance Dashboard** – Built in Power BI to track KPIs across regions and teams
-- **Customer Segmentation Analysis** – Used clustering techniques to identify customer groups
-- **Web Scraping with Python** – Automated data collection from e-commerce sites
-- **A/B Testing Framework** – Designed and analyzed experiments to optimize product features
-
-Explore my repositories to see more!
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email:paletimanoj54@gmail.com
+Tip: Add links to each project repository or demo to showcase your code and visualizations.
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate or chat about data 📊.
+## 📈 What I Can Help With
+
+- Building dashboards and executive reports
+- Data cleaning, ETL pipelines, and SQL queries
+- Exploratory data analysis and visual storytelling
+- Experiment design, analysis, and interpretation
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-profile (replace with your profile URL)
+- 📧 Email: paletimanoj54@gmail.com
+- 🔗 GitHub: https://github.com/paletimanoj54-bot
+
+---
+
+Thanks for visiting — feel free to explore my repositories and reach out if you'd like to collaborate or chat about data! 📊
