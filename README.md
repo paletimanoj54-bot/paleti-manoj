@@ -32,7 +32,7 @@ Explore my repositories to see more!
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-  - 📧 Email: your.email@example.com
+- 📧 Email: your.email@example.com
 
 ---
 
