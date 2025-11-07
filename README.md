@@ -12,11 +12,22 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who thrives on t
 
 ## 🛠️ Tools & Technologies
 
-| Languages | Data Tools | Visualization | Other |
-|-----------|------------|----------------|-------|
-| Python | SQL | Power BI | Git & GitHub |
-| R | Excel | Tableau | Jupyter Notebooks |
-| Pandas | NumPy | Matplotlib | VS Code |
+<!-- Technologies / Logos -->
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-00758F?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-4E73A6?logo=tableau&logoColor=white&style=for-the-badge"/>
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-Git%20%26%20GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
+
 
 ## 📈 Projects
 
