@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who thrives on t
 
 ## 🔍 About Me
 
-- 🎓 Background in [Your Degree or Field]
+- 🎓 Background in [b.tech]
 - 💼 Experience in data analytics, reporting, and dashboard development
 - 🧠 Skilled in SQL, Python, Excel, and data visualization tools like Power BI & Tableau
 - 📊 Love exploring trends, patterns, and anomalies in data
