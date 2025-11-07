@@ -1,4 +1,4 @@
-# paleti-manoj# 👋 Hi, I'm [Your Name]
+ 👋 Hi, I'm [paleti manoj]
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** who thrives on turning raw data into actionable insights. With a strong foundation in statistics, data visualization, and business intelligence, I help organizations make data-driven decisions that drive growth and efficiency.
 
