@@ -66,6 +66,4 @@ Tip: Add links to each project repository or demo to showcase your code and visu
 Thanks for visiting — feel free to explore my repositories and reach out if you'd like to collaborate or chat about data! 📊
 
 
----
 
-Thanks for visiting — feel free to explore my repositories and reach out if you'd like to collaborate or chat about data! 📊
