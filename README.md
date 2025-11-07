@@ -56,18 +56,15 @@ Tip: Add links to each project repository or demo to showcase your code and visu
 ---
 
 ## 📫 Let's Connect
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-label="Connects logo">
-  <title>Connects</title>
-  <!-- icon -->
-  <g transform="translate(12,12)">
-    <circle cx="18" cy="28" r="10" fill="#2B6EF6"/>
-    <circle cx="54" cy="28" r="10" fill="#00C49A"/>
-    <rect x="28" y="26" width="28" height="4" rx="2" fill="#7AAEF0"/>
-  </g>
-  <!-- text -->
-  <text x="100" y="50" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="36" fill="#0F172A">Connects</text>
-</svg>
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/paletimanoj54-bot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin)
+[![X / Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:you@example.com)
+
+---
+
+Thanks for visiting — feel free to explore my repositories and reach out if you'd like to collaborate or chat about data! 📊
+
 
 ---
 
